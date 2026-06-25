@@ -35,8 +35,8 @@ If you have any feedback, please reach out to me on  or [LinkedIn](https://www.l
 
 
 ## 🔗 Links
-[![portfolio](https://niharsakhreliya-portfolio.vercel.app/)
-[![linkedin](https://www.linkedin.com/in/nihar-sakhreliya/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niharsakhreliya-portfolio.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihar-sakhreliya/)
 
 
 ## Authors
