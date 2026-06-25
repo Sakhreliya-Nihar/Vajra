@@ -13,8 +13,8 @@ Light weighted SSRF hunting tool
 ## Usage
 ```bash
 Pass list of domains in a file eg: att.com, x.com
-Format:  ./discern.sh <domain_list_file> <ping_back_url>
-Example: ./discern.sh hackerone.txt https://burp-collaborator.net
+Format:  ./Vajra.sh <domain_list_file> <ping_back_url>
+Example: ./Vajra.sh hackerone.txt https://burp-collaborator.net
 ```
 
 
